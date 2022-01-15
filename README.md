@@ -5,11 +5,8 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-rutvikjha
 
 On Heroku: https://jpa02-rutvikjha.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-rutvikjha
 
 
 # About this repo
